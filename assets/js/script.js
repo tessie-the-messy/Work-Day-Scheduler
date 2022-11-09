@@ -19,7 +19,7 @@ $(document).ready(function () {
 
   // Code applies the past, present, or future class to each time block by comparing the id to the current hour.
 
-  var currHour = Number(moment().format("HH"));
+  var currHour = 12
 
   for (let i = 0; i < hourText.length; i++) {
     if (currHour == hourText[i].id) {

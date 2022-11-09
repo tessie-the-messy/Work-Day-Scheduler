@@ -10,6 +10,12 @@ This repo contains an app for daily work day scheduling. Users can make notes on
 
 This web app can be used by anyone who wishes to keep track of their workday tasks/schedule on a daily basis.
 
+https://tessie-the-messy.github.io/Work-Day-Scheduler/
+
+Webpage preview:
+
+![Screenshot](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/tessa/Desktop/bootcamp/Work-Day-Scheduler/assets/images/image.png?version%3D1667962629065)
+
 ## Credits
 
 Starter code created by: https://github.com/coding-boot-camp
