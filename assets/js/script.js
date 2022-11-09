@@ -1,4 +1,3 @@
-
 $(document).ready(function () {
   // Listener for click events on the save button.
   var save = $(".saveBtn");
