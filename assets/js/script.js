@@ -18,8 +18,7 @@ $(document).ready(function () {
     hourText[i].value = localStorage.getItem(hourText[i].id);
   }
 
-  // TODO: Code applies the past, present, or future class to each time
-  // block by comparing the id to the current hour.
+  // Code applies the past, present, or future class to each time block by comparing the id to the current hour.
 
   var currHour = Number(moment().format("HH"));
 
