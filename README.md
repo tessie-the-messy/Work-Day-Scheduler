@@ -14,7 +14,7 @@ https://tessie-the-messy.github.io/Work-Day-Scheduler/
 
 Webpage preview:
 
-![Screenshot](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/tessa/Desktop/bootcamp/Work-Day-Scheduler/assets/images/image.png?version%3D1667962629065)
+![Screenshot](./assets/images/image.png)
 
 ## Credits
 
